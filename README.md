@@ -1,13 +1,13 @@
 # Quiz-App
 This is a Quiz Web App 
 
-#add and remvoe Quiz
+#add and remvoe Quiz :
 in index.js file edite this aray -> "quizArray" 
 
-#timer
+#timer : 
 in inedx.js file edite this function interval -> "timer()"
 
-#css style
+#css style : 
 can edite everything in style.css file
 
 
